@@ -41,8 +41,15 @@
                         <li class="nav-item">
                             <a class="nav-link active btn btn-primary p-2 m-2" href="register.php">register</a>
                         </li>
+                       
                         <li class="nav-item">
                             <a class="nav-link active btn btn-primary p-2 m-2" href="login.php">login</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active btn btn-primary p-2 m-2" href="data.php">enter products</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active btn btn-primary p-2 m-2" href="products-show.php">products</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
